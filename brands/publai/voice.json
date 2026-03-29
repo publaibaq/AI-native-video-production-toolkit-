@@ -1,0 +1,11 @@
+{
+  "provider": "elevenlabs",
+  "voiceId": "",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.65,
+    "similarity_boost": 0.78,
+    "style": 0.35
+  },
+  "description": "Confident, measured authority. Think Apple keynote meets BBC documentary."
+}

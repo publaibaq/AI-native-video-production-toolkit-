@@ -1,0 +1,16 @@
+{
+  "name": "PublAI Transformation",
+  "template": "product-demo",
+  "brand": "publai",
+  "phase": "editing",
+  "created": "2026-03-29",
+  "description": "PublAI product transformation video — 4 scenes showing the journey from noise to intelligence",
+  "scenes": [
+    { "id": "noise", "type": "custom", "title": "The Noise", "durationSeconds": 10 },
+    { "id": "intelligence", "type": "custom", "title": "The Intelligence", "durationSeconds": 12 },
+    { "id": "transformation", "type": "custom", "title": "The Transformation", "durationSeconds": 10 },
+    { "id": "splitscreen", "type": "custom", "title": "The Split-Screen", "durationSeconds": 12 }
+  ],
+  "totalDurationSeconds": 44,
+  "sessions": []
+}

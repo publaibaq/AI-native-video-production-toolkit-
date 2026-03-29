@@ -1,0 +1,23 @@
+{
+  "name": "publai-transformation",
+  "version": "1.0.0",
+  "description": "PublAI transformation video — from noise to cinematic intelligence",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render PublAITransformation out/publai-transformation.mp4",
+    "render:preview": "remotion render PublAITransformation out/preview.mp4 --scale=0.5"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.425",
+    "@remotion/paths": "4.0.425",
+    "@remotion/shapes": "4.0.425",
+    "@remotion/transitions": "4.0.425",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "4.0.425"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
